@@ -19,7 +19,7 @@ Final Project of Intermediate CSS.
 
 ### Links
 
-- Live Site URL: https://mateusz-przybyla.github.io/HTML-CSS-Project-FlagOfLaos/
+- Live Site URL: https://mateusz-przybyla.github.io/HTML-CSS-Project_FlagOfLaos/
 
 ## My process
 
